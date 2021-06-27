@@ -10,6 +10,6 @@ Some screenshots
 ![alt text](screenshots/Screenshot3.png)
 ![alt text](screenshots/Screenshot4.png)
 ![alt text](screenshots/Screenshot5.png)
-![alt text](screenshots/Screenshot6.png)
+
 
 
